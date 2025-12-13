@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+ body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+    }
+    nav a {
+      margin-right: 15px;
+    }
+    aside {
+      background-color: #f4f4f4;
+      padding: 10px;
+      margin-top: 15px;
+    }
+    footer {
+      margin-top: 20px;
+      font-weight: bold;
+    }
